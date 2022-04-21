@@ -1,5 +1,5 @@
-#libp2p exapmle
-##libp2p is a very modular framework, which allows javascript devs to target different runtime environments and opt-in to various features by including a custom selection of modules.
+# libp2p exapmle
+## libp2p is a very modular framework, which allows javascript devs to target different runtime environments and opt-in to various features by including a custom selection of modules.
 ```
 git clone https://github.com/gautam197/libp2p-example.git
 ```
